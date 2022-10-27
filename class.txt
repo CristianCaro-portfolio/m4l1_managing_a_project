@@ -1,5 +1,4 @@
 Crimson
-Orange
 Blue
 Cyan
 Yellow
@@ -11,3 +10,4 @@ Fuchsia
 Purple
 Brown
 Red
+Orange
